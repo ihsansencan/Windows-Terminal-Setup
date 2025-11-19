@@ -4,7 +4,8 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Profiles](https://img.shields.io/badge/profiles-12-green)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)](CONTRIBUTING.md)
 
 ## 🎮 Demo
 
